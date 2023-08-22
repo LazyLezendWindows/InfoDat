@@ -1,0 +1,4 @@
+.active{
+     color: gold !important; /* to override the colour we use important */
+    font-weight: bold;
+}
